@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Day 1 Project – Log Service (Spring Boot + MySQL)
 
@@ -24,3 +25,7 @@ POST http://localhost:8080/logs
 Body (raw text):
 
 ERROR Payment service timeout
+=======
+# ai-log-analysis-platform
+AI log monitoring system using Spring Boot and Kafka
+>>>>>>> fa1874d1ce20b7682eb997a37acb2984400c4e77
